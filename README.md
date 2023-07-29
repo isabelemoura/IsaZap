@@ -1,5 +1,3 @@
-Claro! Aqui está o README simplificado para o projeto do chat com Flask e SocketIO:
-
 # Chat com Flask e SocketIO
 
 Este é um projeto simples para criar um chat usando o Flask e o SocketIO. O chat permite que várias pessoas se conectem ao mesmo site e troquem mensagens em tempo real.
